@@ -514,10 +514,7 @@
       }
 
 
-      tracks = ['419 Tessa Violet - Breakdown.mp3','Katy Perry - Hot N Cold (Official).mp3','Massive Attack - Dissolved girl.mp3','Pink Floyd - Time (2011 Remastered).mp3',
-	      'Air - Mike Mills-P-DnNRlEYuc.mp3','Lost Like Innocence.mp3',"Opus III-It's A Fine Day HQ.mp3", 'Radiohead - Pyramid Song.mp3','Ten Years Gone (1990 Remaster).mp3',
-	      'Alone in Kyoto-I0SVd_Q5wIg.mp3','massive attack - black milk.mp3','Orinoco Flow (2009 Remaster).mp3','Rapture (Remastered 2001).mp3','The Staunton Lick-6Ls_XYQuGJU.mp3',
-	      'Animotion - Obsession.mp3','Massive Attack - Butterfly Caught.mp3','Peter Gabriel - In Your Eyes.mp3', 'Strongman-GbHUAFd5Xcw.mp3', 'XTC - Another Satellite [HD].mp3']
+      tracks=['Depeche Mode - A Question Of Time (Official Video).mp3','Depeche Mode - Its No Good (Official Video).mp3','Depeche Mode - Strangelove (Official Video).mp3','Depeche Mode - Blasphemous Rumours (Official Video).mp3','Depeche Mode Just cant get enough | Archive INA.mp3','Depeche Mode - Stripped (Official Video).mp3','Depeche Mode - Enjoy The Silence (Official Video).mp3','Depeche Mode - Master And Servant (Official Video).mp3','Depeche Mode - Suffer Well (Official Video).mp3','Depeche Mode - Everything Counts (Official Video).mp3','Depeche Mode - People Are People (Official Video).mp3','Depeche Mode - Walking In My Shoes (Official Video).mp3','Depeche Mode - Freelove (Official Video).mp3','Depeche Mode - Personal Jesus (Official Video).mp3','Depeche Mode - Wheres the Revolution (Video).mp3','Depeche Mode - Get the Balance Right! (Official Video).mp3','Depeche Mode - Policy Of Truth (Official Video).mp3','Depeche Mode - World In My Eyes (Official Video).mp3','Depeche Mode - Heaven.mp3','Depeche Mode - Precious (,Official Video).mp3','Depeche Mode - I Feel You (Official Video).mp3','Depeche Mode - Shake The Disease (Official Video).mp3','Depeche Mode - In Your Room (Official Video).mp3','Depeche Mode - Should Be Higher (Live).mp3']
 
       tracks = tracks.map(v=> 'tracks/'+encodeURIComponent(v))
 
